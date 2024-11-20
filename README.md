@@ -56,6 +56,7 @@ Note: It is assumed that the repository is cloned or downoaded to your bbp5 work
 in your bbp5 working space. Most of the required packages can be installed with conda package manager provided with Miniconda []. See
 Miniconda installation instructions for details [].
 
+Additional data can be downloaded at: https://drive.google.com/file/d/1aK_xVtPyv3Ns3XQgHQkPd5Bq6IlkIiO9/view?usp=sharing
 
 
  

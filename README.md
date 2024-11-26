@@ -1,6 +1,3 @@
-The development of this software was supported by funding to the Blue Brain Project, a research center of the École polytechnique fédérale de Lausanne (EPFL), from the Swiss government’s ETH Board of the Swiss Federal Institutes of Technology.
-
-Copyright (c) 2024 Blue Brain Project/EPFL
 
 # STP prediction from gene expression
 
@@ -57,6 +54,13 @@ in your bbp5 working space. Most of the required packages can be installed with 
 Miniconda installation instructions for details [].
 
 Additional data can be downloaded at: https://drive.google.com/file/d/1aK_xVtPyv3Ns3XQgHQkPd5Bq6IlkIiO9/view?usp=sharing
+
+#Funding
+The development of this software was supported by funding to the Blue Brain Project, a research center of the École polytechnique fédérale de Lausanne (EPFL), from the Swiss government’s ETH Board of the Swiss Federal Institutes of Technology.
+
+#Copyright
+Copyright (c) 2024 Blue Brain Project/EPFL
+
 
 
  
